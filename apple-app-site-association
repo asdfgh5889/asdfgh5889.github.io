@@ -4,11 +4,7 @@
     "details": [
       {
         "appID": "3HGP85H42S.com.abad",
-        "paths": [
-          "/product/",
-          "/shop/",
-          "/search/"
-          ]
+        "paths": ["*"]
       }
     ]
   }
